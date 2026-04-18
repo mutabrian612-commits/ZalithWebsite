@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div style="display: flex; justify-content: ctenter; align-items: center; flex-direction: column;">
   <img src="/zl_icon.webp" alt="Zalith Launcher 2 Logo" style="width: 150px;">
 </div>
 
